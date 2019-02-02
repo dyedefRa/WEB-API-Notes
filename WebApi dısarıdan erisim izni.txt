@@ -1,0 +1,11 @@
+Fiddler ile baðlandýðýmýzda büyük ihtimalle ayný url lile baglandýgýmýz için sorun yaþatmýyor webapi projemýzle haberleþmek...
+Fakat kendi pc mizde bile baþka bir projeyle baðlanmak istersek gormuyor web apiyi.
+
+cozum webapi => web.config=> system.webServer=>
+
+
+ <httpProtocol>
+      <customHeaders>
+        <add name="Access-Control-Allow-Origin" value="*"/>
+      </customHeaders>
+    </httpProtocol>

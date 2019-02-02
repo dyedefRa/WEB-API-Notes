@@ -1,0 +1,12 @@
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.DAL\bin\Debug\Programming.DAL.dll.config
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.DAL\bin\Debug\Programming.DAL.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.DAL\bin\Debug\Programming.DAL.pdb
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.DAL\bin\Debug\EntityFramework.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.DAL\bin\Debug\EntityFramework.xml
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.DAL\obj\Debug\Programming.DAL.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.DAL\obj\Debug\Programming.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.DAL\obj\Debug\Programming.DAL.csproj.CopyComplete
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.DAL\obj\Debug\Programming.DAL.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.DAL\obj\Debug\Programming.DAL.pdb

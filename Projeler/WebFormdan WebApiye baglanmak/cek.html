@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- BUTONA TIKLANDIGINDA VERDIGIMIZ URLDEN VERI CEKECEGIZ -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <title>Document</title>
+</head>
+
+<body>
+    <button id="cek">Verileri servisten çek</button>
+
+    <!-- <h1>Urun ekle</h1>
+    <label for="">IDsi</label>
+    <input type="text" id="Id">
+    <label for="">Ad</label>
+    <input type="text" id="productName">
+    <button id="Ekle">EKLE</button> -->
+
+    <ul></ul>
+    <script
+    src="https://code.jquery.com/jquery-3.3.1.min.js"
+    integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+    crossorigin="anonymous"></script>
+    <script>
+$('#cek').click(function(){
+
+$.ajax({
+    type:'GET',
+    url:'http://localhost:60005/api/sehir',
+    success:function(data){
+        alert('OKEY');
+    },
+    error:function(){
+        alert('HATA');
+    }
+})
+});
+
+
+        // $('#cek').click(function () {
+        //     $.getJSON('http://localhost:53421/api/Product', function (data) {
+        //         $.each(data, function (key, item) {
+        //             $('ul').append('<li>' + item.ProductName + '</li>');
+        //         });
+        //     })
+        // });
+        // $('#Ekle').click(function () {
+        //     Urun = new Object();
+        //     Urun.ProductID = $('#Id').val();
+        //     Urun.ProductName = $('#productName').val();
+            
+
+        //     $.ajax({
+        //         url: 'http://localhost:53421/api/PostProduct/',
+        //         type: 'POST',
+        //         data: Urun,
+        //         success: function () {
+        //             alert('Başarılı');
+        //         },
+        //         error: function () {
+        //             alert('HATA VAR');
+        //         }
+
+        //     })
+        // })
+
+        
+
+    </script>
+</body>
+
+</html>

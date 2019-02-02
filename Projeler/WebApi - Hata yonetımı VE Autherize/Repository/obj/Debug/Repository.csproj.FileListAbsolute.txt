@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Repository\bin\Debug\Repository.dll.config
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Repository\bin\Debug\Repository.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Repository\bin\Debug\Repository.pdb
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Repository\bin\Debug\EntityFramework.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Repository\bin\Debug\Programming.DAL.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Repository\bin\Debug\Programming.DAL.pdb
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Repository\bin\Debug\Programming.DAL.dll.config
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Repository\bin\Debug\EntityFramework.xml
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Repository\obj\Debug\Repository.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Repository\obj\Debug\Repository.pdb

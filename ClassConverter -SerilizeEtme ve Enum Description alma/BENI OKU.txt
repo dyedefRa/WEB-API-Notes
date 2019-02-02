@@ -1,0 +1,2 @@
+ClassConverter ile Serilize olaylarýný yapýyoruz. SiparisTakip2 Projesinde var ikiside.
+EnumDescription alma olayý ýse Cevaplarý enum ýle yaparak  enumun descrpionunu almaya yarýyor

@@ -1,0 +1,10 @@
+c:\users\asus\source\repos\WinFormdan WebApiye baglanmak\WinFormdan WebApiye baglanmak\bin\Debug\WinFormdan WebApiye baglanmak.exe.config
+c:\users\asus\source\repos\WinFormdan WebApiye baglanmak\WinFormdan WebApiye baglanmak\bin\Debug\WinFormdan WebApiye baglanmak.exe
+c:\users\asus\source\repos\WinFormdan WebApiye baglanmak\WinFormdan WebApiye baglanmak\bin\Debug\WinFormdan WebApiye baglanmak.pdb
+c:\users\asus\source\repos\WinFormdan WebApiye baglanmak\WinFormdan WebApiye baglanmak\obj\Debug\WinFormdan WebApiye baglanmak.csprojAssemblyReference.cache
+c:\users\asus\source\repos\WinFormdan WebApiye baglanmak\WinFormdan WebApiye baglanmak\obj\Debug\WinFormdan_WebApiye_baglanmak.Form1.resources
+c:\users\asus\source\repos\WinFormdan WebApiye baglanmak\WinFormdan WebApiye baglanmak\obj\Debug\WinFormdan_WebApiye_baglanmak.Properties.Resources.resources
+c:\users\asus\source\repos\WinFormdan WebApiye baglanmak\WinFormdan WebApiye baglanmak\obj\Debug\WinFormdan WebApiye baglanmak.csproj.GenerateResource.cache
+c:\users\asus\source\repos\WinFormdan WebApiye baglanmak\WinFormdan WebApiye baglanmak\obj\Debug\WinFormdan WebApiye baglanmak.csproj.CoreCompileInputs.cache
+c:\users\asus\source\repos\WinFormdan WebApiye baglanmak\WinFormdan WebApiye baglanmak\obj\Debug\WinFormdan WebApiye baglanmak.exe
+c:\users\asus\source\repos\WinFormdan WebApiye baglanmak\WinFormdan WebApiye baglanmak\obj\Debug\WinFormdan WebApiye baglanmak.pdb

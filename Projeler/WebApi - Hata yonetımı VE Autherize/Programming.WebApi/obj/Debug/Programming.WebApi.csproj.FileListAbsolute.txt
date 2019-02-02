@@ -1,0 +1,228 @@
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\Programming.WebApi.dll.config
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\Programming.WebApi.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\Programming.WebApi.pdb
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\csc.exe
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\csc.exe.config
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\csc.rsp
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\csi.exe
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\csi.exe.config
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\csi.rsp
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\System.Console.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\vbc.exe
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\vbc.exe.config
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\vbc.rsp
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\Programming.DAL.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\Repository.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\System.Web.Http.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\EntityFramework.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\Programming.DAL.pdb
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\Programming.DAL.dll.config
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\Repository.pdb
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\Repository.dll.config
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\System.Web.Http.xml
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\EntityFramework.xml
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\obj\Debug\Programming.WebApi.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\obj\Debug\Programming.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\obj\Debug\Programming.WebApi.csproj.CopyComplete
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\obj\Debug\Programming.WebApi.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\obj\Debug\Programming.WebApi.pdb
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\Veritabani-WebApi CRUD Islemleri\Programming.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\Programming.WebApi.dll.config
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\Programming.WebApi.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\Programming.WebApi.pdb
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\csc.exe
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\csc.exe.config
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\csc.rsp
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\csi.exe
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\csi.exe.config
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\csi.rsp
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\System.Console.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\vbc.exe
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\vbc.exe.config
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\vbc.rsp
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\EntityFramework.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\Programming.DAL.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\Repository.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\System.Web.Http.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\Programming.DAL.pdb
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\Programming.DAL.dll.config
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\Repository.pdb
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\Repository.dll.config
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\EntityFramework.xml
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\System.Web.Http.xml
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\obj\Debug\Programming.WebApi.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\obj\Debug\Programming.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\obj\Debug\Programming.WebApi.csproj.CopyComplete
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\obj\Debug\Programming.WebApi.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı\Programming.WebApi\obj\Debug\Programming.WebApi.pdb
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\Programming.WebApi.dll.config
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\Programming.WebApi.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\Programming.WebApi.pdb
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\csc.exe
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\csc.exe.config
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\csc.rsp
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\csi.exe
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\csi.exe.config
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\csi.rsp
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\System.AppContext.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\System.Console.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\System.IO.Compression.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\System.Security.Claims.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\System.ValueTuple.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\vbc.exe
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\vbc.exe.config
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\vbc.rsp
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\EntityFramework.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\EntityFramework.SqlServer.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\Newtonsoft.Json.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\Programming.DAL.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\Repository.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\System.Web.Http.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\System.Web.Http.WebHost.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\Programming.DAL.pdb
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\Programming.DAL.dll.config
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\Repository.pdb
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\Repository.dll.config
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\EntityFramework.xml
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\EntityFramework.SqlServer.xml
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\Newtonsoft.Json.xml
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\System.Net.Http.Formatting.xml
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\System.Web.Http.xml
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\System.Web.Http.WebHost.xml
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\obj\Debug\Programming.WebApi.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\obj\Debug\Programming.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\obj\Debug\Programming.WebApi.csproj.CopyComplete
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\obj\Debug\Programming.WebApi.dll
+C:\Users\Asus\source\repos\+ WEBAPI\Projeler\WebApi - Hata yonetımı - Autherize\Programming.WebApi\obj\Debug\Programming.WebApi.pdb
